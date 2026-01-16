@@ -13,4 +13,7 @@ Desarrollador web y estudiante de programación
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
-![Albertoo GitHub stats](https://github-readme-stats.vercel.app/api?username=Albertoo&show_icons=true&theme=radical)
+## Estadísticas de GitHub
+
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=7albertooo&show_icons=true&theme=radical)
+

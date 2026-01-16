@@ -15,5 +15,6 @@ Desarrollador web y estudiante de programación
 
 ## Estadísticas de GitHub
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=7albertooo&show_icons=true&theme=radical)
+![Stats](https://github-readme-stats.vercel.app/api?username=7albertooo&show_icons=true&theme=dark&cache_seconds=1800)
+
 

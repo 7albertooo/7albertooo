@@ -1,4 +1,4 @@
-# Hola, soy Albertoo 👋
+# Hola, soy Albertoo 
 Desarrollador web y estudiante de programación
 
 🌱 Aprendiendo PHP, Python, HTML5, CSS3, Tailwind y Astro  
